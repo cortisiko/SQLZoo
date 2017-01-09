@@ -1,2 +1,2 @@
 # SQLZoo
-These are answers to questions on SQLzoo.net
+These are answers to the more difficult questions on SQLzoo.net
